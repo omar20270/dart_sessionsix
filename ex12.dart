@@ -16,6 +16,6 @@
   //       }
   // }
 
-    // Example usage:
+    // Example 
     printUserInfo(firstName: 'Omar', lastName: 'Aljarrah', age: 34);
     printUserInfo(firstName: 'Omar', lastName: 'Aljarrah');  
